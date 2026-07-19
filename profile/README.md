@@ -1,7 +1,7 @@
 <img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/ebdf2c09-5b01-4af5-a1c0-8e4fe27c4c34" />
 
 
-**Fullstack AI-Integrated App | Developer in Training | React • SQL • Python **
+### Fullstack AI-Integrated App | Developer in Training | React • SQL • Python **
 
 Full-time App Development student building AI-integrated trading dashboards and educational platforms. Currently balancing school, healthcare staffing coordination, and IT tutoring — bringing real operations experience into every application I build.
 
