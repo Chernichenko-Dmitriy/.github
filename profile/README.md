@@ -1,7 +1,7 @@
 <img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/ebdf2c09-5b01-4af5-a1c0-8e4fe27c4c34" />
 
 
-## DiscipleA
+## Chernichenko Dmitriy
 
 **Fullstack AI-Integrated App | Developer in Training | React • SQL • Python **
 
